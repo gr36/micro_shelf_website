@@ -1,11 +1,47 @@
 [
   {
-    "id": "sample",
-    "tag": "sample",
-    "title": "This is a sample banner",
-    "subtitle": "subtile for the sample banner",
-    "systemImage": "trophy.fill",
+    "id": "scifi-essentials",
+    "tag": "Collection",
+    "title": "Sci-Fi That Holds Up",
+    "subtitle": "12 essentials for any shelf",
+    "systemImage": "moon.stars.fill",
+    "tintHex": "4B4FE0",
+    "gradientHex": "7A2BD6",
+    "imageURL": "https://picsum.photos/seed/scifi/300/440",
+    "content": [
+      { "type": "image", "url": "https://picsum.photos/seed/scifiwide/800/450" },
+      { "type": "text", "text": "Genre-defining novels that still feel fresh decades on — from sweeping space opera to quiet, unsettling futures. A solid starting point if you're new to the genre or filling gaps." },
+      { "type": "button", "label": "See the collection", "url": "https://micro.blog" }
+    ]
+  },
+  {
+    "id": "book-of-the-month",
+    "tag": "Book of the Month",
+    "title": "Project Hail Mary",
+    "subtitle": "Andy Weir",
+    "systemImage": "star.fill",
+    "tintHex": "2C7BE0",
+    "gradientHex": "123E8C",
+    "imageURL": "https://books.google.com/books/content?id=CnSJEQAAQBAJ&printsec=frontcover&img=1&fife=w400-h600",
+    "content": [
+      { "type": "image", "url": "https://books.google.com/books/content?id=CnSJEQAAQBAJ&printsec=frontcover&img=1&fife=w400-h600" },
+      { "type": "text", "text": "A lone astronaut wakes with no memory aboard a ship millions of miles from home — and the survival of humanity rests on what he can piece together. A warm, funny, science-packed page-turner." },
+      { "type": "button", "label": "Find it in Search", "url": "https://micro.blog" }
+    ]
+  },
+  {
+    "id": "autumn-reads",
+    "tag": "Seasonal",
+    "title": "Cosy Autumn Reads",
+    "subtitle": "Books for darker evenings",
+    "systemImage": "leaf.fill",
     "tintHex": "E0892E",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum tortor in erat mollis lobortis. Quisque sed tincidunt dui, vel facilisis purus. Donec risus arcu, pellentesque varius elementum non, gravida vel nibh. Nam vulputate luctus aliquam. Quisque tincidunt feugiat convallis. Cras varius aliquet est, dignissim vehicula dui maximus eu. Curabitur eros purus, eleifend nec facilisis ac, consequat eu enim. Nulla pharetra dignissim luctus. Sed eget erat varius, semper arcu vel, placerat urna. Phasellus aliquam ipsum sed lacus aliquet rutrum. Nunc est sem, laoreet eu lorem sit amet, imperdiet cursus ipsum. Aliquam vitae est id sem mollis tempor. Sed mollis a dui eget pharetra.\n\nCurabitur euismod tortor tempor gravida iaculis. Nulla sagittis ex at blandit tempor. Pellentesque non auctor felis. Sed maximus nec neque ut egestas. Cras imperdiet, orci nec gravida rhoncus, massa lorem commodo nisl, eget varius tellus augue et ligula. Aenean nulla leo, faucibus at tortor a, varius aliquet odio. Donec aliquam turpis odio, at commodo lacus iaculis a. In hac habitasse platea dictumst. Vestibulum et consequat magna. Proin et lorem sodales, dapibus leo sit amet, porta leo. Aliquam semper tincidunt sem sit amet euismod. Praesent eget neque risus. Sed commodo vel ipsum et fermentum. Phasellus maximus dui nisl, eget ornare elit eleifend ut. Nunc varius scelerisque sem, vitae venenatis dui laoreet eget. Vestibulum sagittis tortor quis nibh semper porttitor.\n\nDonec eu mi sodales, auctor diam at, vehicula sem. Quisque viverra sapien at augue pulvinar imperdiet et sagittis augue. Vivamus molestie semper facilisis. Nulla eget nisi nec nulla varius molestie. Nulla cursus semper fermentum. Nam ultricies justo non augue sagittis volutpat. Morbi lacinia nulla massa, at placerat nunc interdum quis. Sed tincidunt, dolor a semper sodales, diam magna pharetra dolor, id egestas neque diam id arcu. Suspendisse at dapibus nisl."
+    "gradientHex": "A83417",
+    "imageURL": "https://picsum.photos/seed/autumnbooks/300/440",
+    "content": [
+      { "type": "image", "url": "https://picsum.photos/seed/autumnwide/800/450" },
+      { "type": "text", "text": "Slow-burn mysteries, gothic classics and warm literary fiction — the kind of books made for a blanket and a long evening in." },
+      { "type": "button", "label": "Browse the list", "url": "https://micro.blog" }
+    ]
   }
 ]
