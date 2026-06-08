@@ -3,15 +3,23 @@
     "id": "scifi-essentials",
     "tag": "Collection",
     "title": "Sci-Fi That Holds Up",
-    "subtitle": "12 essentials for any shelf",
+    "subtitle": "Four essentials for any shelf",
     "systemImage": "moon.stars.fill",
     "tintHex": "4B4FE0",
     "gradientHex": "7A2BD6",
-    "imageURL": "https://picsum.photos/seed/scifi/300/440",
+    "imageURL": "https://books.google.com/books/content?id=AQk_EAAAQBAJ&printsec=frontcover&img=1&fife=w400-h600",
     "content": [
-      { "type": "image", "url": "https://picsum.photos/seed/scifiwide/800/450" },
-      { "type": "text", "text": "Genre-defining novels that still feel fresh decades on — from sweeping space opera to quiet, unsettling futures. A solid starting point if you're new to the genre or filling gaps." },
-      { "type": "button", "label": "See the collection", "url": "https://micro.blog" }
+      { "type": "text", "text": "Science fiction dates faster than almost any genre — except when it doesn't. These are the novels whose ideas, characters and prose still land decades on. New to SF, or filling in the gaps? Start here." },
+      { "type": "image", "url": "https://books.google.com/books/content?id=AQk_EAAAQBAJ&printsec=frontcover&img=1&fife=w400-h600" },
+      { "type": "text", "text": "**Dune** — Frank Herbert (1965). The benchmark for epic world-building: desert ecology, galactic politics and messianic prophecy braided into one of the most influential novels ever written." },
+      { "type": "image", "url": "https://books.google.com/books/content?id=X-j9eIuTMdkC&printsec=frontcover&img=1&fife=w400-h600" },
+      { "type": "text", "text": "**The Left Hand of Darkness** — Ursula K. Le Guin (1969). A lone envoy on a frozen world where people have no fixed gender. Quietly radical, and still one of SF's most humane books." },
+      { "type": "image", "url": "https://books.google.com/books/content?id=z9BaAAAAYAAJ&printsec=frontcover&img=1&fife=w400-h600" },
+      { "type": "text", "text": "**Neuromancer** — William Gibson (1984). The novel that coined *cyberspace* and lit the fuse on cyberpunk. Noir, neon and a washed-up hacker's last job." },
+      { "type": "image", "url": "https://books.google.com/books/content?id=Z7GfEAAAQBAJ&printsec=frontcover&img=1&fife=w400-h600" },
+      { "type": "text", "text": "**The Three-Body Problem** — Liu Cixin (2008). First contact told through physics, history and game theory — the opening of a trilogy that thinks on a genuinely cosmic scale." },
+      { "type": "text", "text": "Read one and the rest tend to follow." },
+      { "type": "button", "label": "See more on Goodreads", "url": "https://www.goodreads.com/list/show/19341.Best_Science_Fiction" }
     ]
   },
   {
@@ -25,8 +33,14 @@
     "imageURL": "https://books.google.com/books/content?id=CnSJEQAAQBAJ&printsec=frontcover&img=1&fife=w400-h600",
     "content": [
       { "type": "image", "url": "https://books.google.com/books/content?id=CnSJEQAAQBAJ&printsec=frontcover&img=1&fife=w400-h600" },
-      { "type": "text", "text": "A lone astronaut wakes with no memory aboard a ship millions of miles from home — and the survival of humanity rests on what he can piece together. A warm, funny, science-packed page-turner." },
-      { "type": "button", "label": "Find it in Search", "url": "https://micro.blog" }
+      { "type": "text", "text": "This month's pick is **Project Hail Mary** by Andy Weir — a lone-astronaut thriller with a heart as big as its science." },
+      { "type": "text", "text": "Ryland Grace wakes up alone, millions of miles from home, with no memory of who he is or why he's there. As it comes back to him, so do the stakes: he is humanity's last chance, and he'll have to science his way out of catastrophe." },
+      { "type": "text", "text": "It's *The Martian*'s spiritual sibling — funny, propulsive and stuffed with problem-solving — but with a friendship at its centre that sneaks up and floors you. Hard to put down, harder not to grin at." },
+      { "type": "text", "text": "**Liked it? Try Weir's debut next:**" },
+      { "type": "image", "url": "https://books.google.com/books/content?id=_LnEAgAAQBAJ&printsec=frontcover&img=1&fife=w400-h600" },
+      { "type": "text", "text": "**The Martian** — the stranded-astronaut survival story that started it all." },
+      { "type": "button", "label": "About Andy Weir", "url": "https://andyweirauthor.com" },
+      { "type": "button", "label": "Read more on Wikipedia", "url": "https://en.wikipedia.org/wiki/Project_Hail_Mary" }
     ]
   },
   {
@@ -37,11 +51,18 @@
     "systemImage": "leaf.fill",
     "tintHex": "E0892E",
     "gradientHex": "A83417",
-    "imageURL": "https://picsum.photos/seed/autumnbooks/300/440",
+    "imageURL": "https://books.google.com/books/content?id=S4_PyiyJixQC&printsec=frontcover&img=1&fife=w400-h600",
     "content": [
-      { "type": "image", "url": "https://picsum.photos/seed/autumnwide/800/450" },
-      { "type": "text", "text": "Slow-burn mysteries, gothic classics and warm literary fiction — the kind of books made for a blanket and a long evening in." },
-      { "type": "button", "label": "Browse the list", "url": "https://micro.blog" }
+      { "type": "text", "text": "When the evenings draw in, the reading gets richer. A stack of slow-burners, gothic chills and warm mysteries made for a blanket and a long night in." },
+      { "type": "image", "url": "https://books.google.com/books/content?id=S4_PyiyJixQC&printsec=frontcover&img=1&fife=w400-h600" },
+      { "type": "text", "text": "**The Secret History** — Donna Tartt. A clique of classics students, a charismatic professor and a death that unravels them all. Autumn in novel form." },
+      { "type": "image", "url": "https://books.google.com/books/content?id=-xBbEAAAQBAJ&printsec=frontcover&img=1&fife=w400-h600" },
+      { "type": "text", "text": "**Piranesi** — Susanna Clarke. A lonely, labyrinthine house of endless halls and tides. Strange, beautiful and quietly unforgettable." },
+      { "type": "image", "url": "https://books.google.com/books/content?id=9s9cfPrg4z0C&printsec=frontcover&img=1&fife=w400-h600" },
+      { "type": "text", "text": "**The Thirteenth Tale** — Diane Setterfield. A dying author finally tells the truth about her past to a biographer who can't look away. Gothic and gloriously bookish." },
+      { "type": "image", "url": "https://books.google.com/books/content?id=q7yZDwAAQBAJ&printsec=frontcover&img=1&fife=w400-h600" },
+      { "type": "text", "text": "**The Thursday Murder Club** — Richard Osman. Four retirees, one cold case and a great deal of tea. The cosy palate-cleanser to end on." },
+      { "type": "button", "label": "More gothic & cosy reads", "url": "https://www.goodreads.com/shelf/show/gothic" }
     ]
   }
 ]
